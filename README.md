@@ -9,15 +9,15 @@
 
 - 🎓 I'm student at **İstanbul University - Computer Programming**
 
-- 👨‍💻 All of my projects are available at [http://atamany.somee.com/Default/Index/](http://atamany.somee.com/Default/Index/)
+- 👨‍💻 All of my projects are available at [Atamany](http://atamany.somee.com/Default/Index/)
 
-- 📝 I regularly write articles on [https://atamany.blogspot.com/?m=1](https://atamany.blogspot.com/?m=1)
+- 📝 I regularly write articles on [Blogger](https://atamany.blogspot.com/?m=1)
 
 - 💬 Ask me about **.Net**
 
 - 📫 How to reach me **yigitataman1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yi%C4%9Fit-ataman-6a5004297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/yi%C4%9Fit-ataman-6a5004297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-ataman-6a5004297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - ⚡ Hobby **Cinephile**
 
