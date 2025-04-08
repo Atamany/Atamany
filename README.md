@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yigitataman1@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/yi%C4%9Fit-ataman-6a5004297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/yigitataman)
 
 - ⚡ Hobby **Cinephile**
 
