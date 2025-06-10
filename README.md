@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yiğit Ataman</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working at **Acun Medya Akademi**
-
-- 🎓 I’m student at **Acun Medya Akademi - C# ile Programlamaya Giriş**
+- 🔭 I’m currently working at **AkademiQ**
 
 - 🎓 I'm student at **Biruni University - Computer Engineering**
 
 - 🎓 I'm student at **İstanbul University - Computer Programming**
+
+- 🎓 I graduated fron **Acun Medya Akademi - C# ile Programlamaya Giriş**
   
 - 🎓 I graduated from **Young Executive Academy**
 
