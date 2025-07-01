@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working at **AkademiQ**
 
-- 🎓 I'm student at **Biruni University - Computer Engineering**
+- 🎓 I'm student at **Nişantaşı University - Computer Engineering**
 
 - 🎓 I'm student at **İstanbul University - Computer Programming**
 
 - 🎓 I graduated fron **Acun Medya Akademi - C# ile Programlamaya Giriş**
   
 - 🎓 I graduated from **Young Executive Academy**
+
+- 🌐 My Website: www.atamany.com.tr
 
 - 👨‍💻 All of my projects are available at [Atamany](http://atamany.somee.com/Default/Index/)
 
