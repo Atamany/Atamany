@@ -1,39 +1,166 @@
-<h1 align="center">Hi 👋, I'm Yiğit Ataman</h1>
-<h3 align="center">Software Developer</h3>
+# Yiğit Ataman  
+## Software Developer (.NET) | Computer Engineer | Instructor  
+🌐 [atamany.com.tr](http://atamany.com.tr) | 📧 yigitataman1@gmail.com | 📱 +90 538 012 620  
 
-- 🔭 I’m currently working at **AkademiQ**
+---
 
-- 🎓 I'm student at **Nişantaşı University - Computer Engineering**
+Hello everyone, I'm **Yiğit Ataman**.  
 
-- 🎓 I'm student at **İstanbul University - Computer Programming**
+I am actively working in the fields of **software development** and **education**.  
+Specialized in **.NET technologies** (ASP.NET Core, MVC, Entity Framework, etc.), I both develop enterprise projects and take on instructor and consultant roles in various institutions.  
 
-- 🎓 I graduated fron **Acun Medya Akademi - C# ile Programlamaya Giriş**
-  
-- 🎓 I graduated from **Young Executive Academy**
+My career is not only about producing technical knowledge but also about combining it with different disciplines, contributing to team management, content design, and the development of organizational structures. I have worked simultaneously in multiple institutions, reflecting my competencies in both education and professional software projects.  
 
-- 🌐 My Website: www.atamany.com.tr
+In the systems I develop, **sustainability, clean code, and user experience** are my top priorities. I also follow industry dynamics and actively participate in summits and events, keeping my technical knowledge up to date and sharing it with my community.  
 
-- 👨‍💻 All of my projects are available at [Atamany](http://atamany.somee.com/Default/Index/)
+I am disciplined, organized, and versatile in my working style. Despite a busy schedule, I prioritize processes effectively and strive to progress with high efficiency in both team and individual work.  
 
-- 📝 I regularly write articles on [Blogger](https://atamany.blogspot.com/?m=1)
+**My goal is not only to be a software developer but also to be someone who adds meaning and value to the organization I am part of.**  
 
-- 💬 Ask me about **.Net**
+---
 
-- 📫 How to reach me **yigitataman1@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/yigitataman)
-
-- ⚡ Hobby **Cinephile**
-
-<h3 align="left">Connect with me:</h3>
+## 🎓 Education  
 <p align="left">
-<a href="https://twitter.com/_atamany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_atamany" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yiğit ataman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit ataman" height="30" width="40" /></a>
-<a href="https://fb.com/yiğit ataman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yiğit ataman" height="30" width="40" /></a>
-<a href="https://instagram.com/_yigitataman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yigitataman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yigitataman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yigitataman" height="30" width="40" /></a>
-<a href="https://discord.gg/yigitataman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yigitataman" height="30" width="40" /></a>
+  <img src="https://i.hizliresim.com/ic1swkv.jpeg" alt="Nişantaşı Üniversitesi" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/oymv97y.jpeg" alt="Biruni Üniversitesi" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/6tbpxot.jpg" alt="İstanbul Üniversitesi" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/fc1tyan.jpeg" alt="AkademiQ AI Business School" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/mel432e.png" alt="Acunmedya Akademi" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/duj8wx9.png" alt="Young Executive Academy" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/6sgq6r8.png" alt="TechCareer.Net" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/tv1iura.jpg" alt="Google For Developers" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/ixlv4el.jpg" alt="Açık Öğretim Lisesi" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/7jtkd09.jpeg" alt="Nişantaşı Anadolu Lisesi" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/6iyxw1n.jpeg" alt="Maçka Pakmaya Hüsamettin Ziller Ortaokulu" width="80" height="80"/>
+</p>  
+
+---
+
+## 💼 Experience  
+<p align="left">
+  <img src="https://i.hizliresim.com/l4x4dej.jpg" alt="PawLounge" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/kxjd7bb.jpg" alt="Synergy Maze AI" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/1lnk7tq.jpg" alt="Thorius Eğitim ve Danışmanlık" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/238atpn.png" alt="Esriva" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/fc1tyan.jpeg" alt="AkademiQ AI Business School" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/mel432e.png" alt="Acunmedya Akademi" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/o5txz02.jpeg" alt="MyStaff" width="80" height="80"/>
+</p>  
+
+---
+
+## 🤝 Voluntary  
+<p align="left">
+  <img src="https://i.hizliresim.com/btwoizh.png" alt="TMMOB Bilgisayar Mühendisleri Odası" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/93qp32n.jpg" alt="Türkiye Bilişim Derneği" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/c4oc91f.png" alt="AkademiQ Network" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/3o5ebqm.png" alt="AkademiQ Society Türkiye" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/i9cibt0.png" alt="IEEE Biruni" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/88hyvr2.png" alt="GDSC Biruni" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/jiavw9d.png" alt="TIEC Biruni" width="80" height="80"/>
+  <img src="https://i.hizliresim.com/9trly1b.jpeg" alt="Biruni Üniversitesi Girişimcilik Topluluğu" width="80" height="80"/>
+</p>  
+
+---
+
+## ⚙️ Tech Stack  
+
+### 🔹 Programming & Frameworks  
+<p align="left">
+  <img src="https://i.hizliresim.com/sobbd8d.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/n6mt8fj.jpeg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/cosahaf.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/3m8u1j3.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/bqixekb.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/b774bgz.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/fkzrn4l.png" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🔹 API Technogy & Security
+<p align="left">
+  <img src="https://i.hizliresim.com/jawhdpo.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/r5xd3l0.jpeg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/gjypbsf.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/sl5061d.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/38ezbdx.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/nndinok.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/earjtvm.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/r3jnlva.jpg" width="40" height="40"/>
+</p>
+
+### 🔹 Database & ORM
+<p align="left">
+  <img src="https://i.hizliresim.com/rmwco5a.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/e3rlyko.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/sdt4w5r.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/ai1q79p.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/itcpqdl.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/jpdz5hx.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/5w5mnpa.jpeg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/6muy38m.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/bdmxusm.png" width="40" height="40"/>
+</p>
+
+### 🔹 Web Technologies  
+<p align="left">
+  <img src="https://i.hizliresim.com/4wtctfz.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/foynwcq.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/j3bo8ou.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/sn9zcrx.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/5lywvea.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/9ufoel0.png" width="40" height="40"/>
+</p>
+
+### 🔹 Databases  
+<p align="left">
+  <img src="https://i.hizliresim.com/brewshk.jpeg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/9gfg76y.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/r1e69lg.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/bfq72cq.jpeg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/5b2i2zl.jpg" width="40" height="40"/>
+</p>
+
+### 🔹 Software Architecture 
+<p align="left">
+  <img src="https://i.hizliresim.com/c1c9ygs.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/lzanjzj.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/d02qa2o.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/3yypexd.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/bu30ceo.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/8l0l8d0.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/1metnwy.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/5wb1szr.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/digk2dr.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/c4n056z.png" width="40" height="40"/>
+</p>
+
+### 🔹 Tools & Version Control  
+<p align="left">
+  <img src="https://i.hizliresim.com/cnfu1ml.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/gi2ksiq.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/k3wd95e.png" width="40" height="40"/>
+</p>
+
+---
+
+## 🌍 Social Media  
+<p align="left">
+  <a href="https://www.atamany.com.tr/"><img src="https://i.hizliresim.com/9mp3idr.jpg" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/yigitataman/"><img src="https://i.hizliresim.com/ccm0j44.png" width="40" height="40"/></a>
+  <a href="https://medium.com/@yigitataman1"><img src="https://i.hizliresim.com/tj4r7o3.jpg" width="40" height="40"/></a>
+  <a href="https://www.kaggle.com/yiitataman"><img src="https://i.hizliresim.com/k9r2tj7.jpg" width="40" height="40"/></a>
+  <a href="https://atamany.blogspot.com/"><img src="https://i.hizliresim.com/6h21wsn.png" width="40" height="40"/></a>
+  <a href="https://www.udemy.com/user/yigit-ataman/"><img src="https://i.hizliresim.com/jxh03s6.jpg" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/_yigitataman/"><img src="https://i.hizliresim.com/togsdxi.png" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61551933007695&mibextid=ZbWKwL"><img src="https://i.hizliresim.com/bcv9lsf.png" width="40" height="40"/></a>
+  <a href="https://x.com/_Atamany"><img src="https://i.hizliresim.com/iwwcm44.jpg" width="40" height="40"/></a>
+  <a href="https://www.youtube.com/channel/UCubwywNlQ5OdWFzCfovO1jA"><img src="https://i.hizliresim.com/iv1pxtq.jpg" width="40" height="40"/></a>
+  <a href="https://appraf.com/yigitataman/"><img src="https://i.hizliresim.com/ldxvlvm.png" width="40" height="40"/></a>
+  <a href="https://www.threads.net/@_yigitataman"><img src="https://i.hizliresim.com/9o3b4o4.jpg" width="40" height="40"/></a>
+  <a href="https://www.reddit.com/u/yigitataman?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=2"><img src="https://i.hizliresim.com/nlg00t6.png" width="40" height="40"/></a>
+  <a href="https://tr.pinterest.com/yigitataman1/?invite_code=0564b870250d4c61b6e7f8c8675d3a54&sender=512003188795167333"><img src="https://i.hizliresim.com/2tt4xgf.png" width="40" height="40"/></a>
+  <a href="https://open.spotify.com/user/8tmfb7qnlvpcjrnihc7768pou?si=a135995c62c04570"><img src="https://i.hizliresim.com/ogxsts1.png" width="40" height="40"/></a>
+  <a href="https://www.snapchat.com/add/yigitataman1?share_id=HBdHPeULKZ8&locale=tr-TR"><img src="https://i.hizliresim.com/5w2200z.jpg" width="40" height="40"/></a>
+  <a href="https://www.twitch.tv/yigitataman1"><img src="https://i.hizliresim.com/hg7teq0.png" width="40" height="40"/></a>
+  <a href="https://bsky.app/profile/atamany.bsky.social"><img src="https://i.hizliresim.com/4xcbp8v.png" width="40" height="40"/></a>
+</p>
