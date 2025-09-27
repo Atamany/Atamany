@@ -93,6 +93,7 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/rmwco5a.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/e3rlyko.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/sdt4w5r.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/dcjl4s1.jpg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/ai1q79p.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/itcpqdl.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/jpdz5hx.jpg" width="40" height="40"/>
