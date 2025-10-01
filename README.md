@@ -71,9 +71,12 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/n6mt8fj.jpeg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/cosahaf.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/3m8u1j3.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/6k5vimw.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/qh16g20.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/bqixekb.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/b774bgz.jpg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/fkzrn4l.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/aksaiik.png" width="40" height="40"/>
 </p>
 
 ### 🔹 API Technogy & Security
@@ -86,6 +89,8 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/nndinok.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/earjtvm.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/r3jnlva.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/tkn9e51.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/f7k2b15.png" width="40" height="40"/>
 </p>
 
 ### 🔹 Database & ORM
@@ -100,6 +105,7 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/5w5mnpa.jpeg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/6muy38m.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/bdmxusm.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/pxeynub.png" width="40" height="40"/>
 </p>
 
 ### 🔹 Web Technologies  
@@ -112,7 +118,14 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/9ufoel0.png" width="40" height="40"/>
 </p>
 
-### 🔹 Databases  
+### 🔹 Data Science and Analytics 
+<p align="left">
+  <img src="https://i.hizliresim.com/n9mo0um.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/7jyty9o.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/d053h22.png" width="40" height="40"/>
+</p>
+
+### 🔹 Database Systems  
 <p align="left">
   <img src="https://i.hizliresim.com/brewshk.jpeg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/9gfg76y.png" width="40" height="40"/>
@@ -121,7 +134,7 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/5b2i2zl.jpg" width="40" height="40"/>
 </p>
 
-### 🔹 Software Architecture 
+### 🔹 Software Architecture and Principles
 <p align="left">
   <img src="https://i.hizliresim.com/c1c9ygs.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/lzanjzj.png" width="40" height="40"/>
@@ -131,7 +144,7 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/8l0l8d0.jpg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/1metnwy.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/5wb1szr.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/digk2dr.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/tbs8bjr.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/c4n056z.png" width="40" height="40"/>
 </p>
 
@@ -140,6 +153,42 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/cnfu1ml.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/gi2ksiq.jpg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/k3wd95e.png" width="40" height="40"/>
+</p>
+
+### 🔹 No-Code/Low-Code Tools 
+<p align="left">
+  <img src="https://i.hizliresim.com/2s02lj1.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/d8ft1v6.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/g3q4ubn.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/n962ogw.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/gnj9fq2.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/40fw5z6.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/dazbvgw.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/43jfixq.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/jo85ahk.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/qopby4y.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/i8fcqzm.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/2ticp6t.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/iac4okn.jpg" width="40" height="40"/>
+</p>
+
+### 🔹 Artificial Intelligence Tools
+<p align="left">
+  <img src="https://i.hizliresim.com/golsze3.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/mmmeaqc.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/t7gwcmy.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/otbiayo.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/ez3qjx4.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/p8b9v5i.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/13gewcr.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/6s86q8f.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/iy7uai5.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/tjqv4uv.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/nio8c1e.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/grh4gu9.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/gh1preo.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/b4igoff.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/kliwop6.jpg" width="40" height="40"/>
 </p>
 
 ---
