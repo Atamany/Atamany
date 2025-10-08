@@ -148,11 +148,15 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/c4n056z.png" width="40" height="40"/>
 </p>
 
-### 🔹 Tools & Version Control  
+### 🔹 Tools
 <p align="left">
   <img src="https://i.hizliresim.com/cnfu1ml.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/gi2ksiq.jpg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/k3wd95e.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/9d14fl7.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/rldzkp2.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/17wffud.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/oc6xniu.jpg" width="40" height="40"/>
 </p>
 
 ### 🔹 No-Code/Low-Code Tools 
@@ -189,6 +193,25 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
   <img src="https://i.hizliresim.com/gh1preo.png" width="40" height="40"/>
   <img src="https://i.hizliresim.com/b4igoff.jpg" width="40" height="40"/>
   <img src="https://i.hizliresim.com/kliwop6.jpg" width="40" height="40"/>
+</p>
+
+### 🔹 Operating Systems
+<p align="left">
+  <img src="https://i.hizliresim.com/4hnlch0.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/gccp430.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/oodh0k5.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/1wkz3pz.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/r94nhvz.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/h9pwd8n.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/skpz6dc.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/78stcut.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/nun3mqo.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/pbiozls.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/9mx480h.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/j4oc4pa.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/g49pvh8.png" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/o701pp2.jpg" width="40" height="40"/>
+  <img src="https://i.hizliresim.com/91axfcf.jpg" width="40" height="40"/>
 </p>
 
 ---
