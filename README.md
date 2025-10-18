@@ -54,8 +54,6 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
 <p align="left">
   <img src="https://i.hizliresim.com/btwoizh.png" alt="TMMOB Bilgisayar Mühendisleri Odası" width="80" height="80"/>
   <img src="https://i.hizliresim.com/93qp32n.jpg" alt="Türkiye Bilişim Derneği" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/c4oc91f.png" alt="AkademiQ Network" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/3o5ebqm.png" alt="AkademiQ Society Türkiye" width="80" height="80"/>
   <img src="https://i.hizliresim.com/i9cibt0.png" alt="IEEE Biruni" width="80" height="80"/>
   <img src="https://i.hizliresim.com/88hyvr2.png" alt="GDSC Biruni" width="80" height="80"/>
   <img src="https://i.hizliresim.com/jiavw9d.png" alt="TIEC Biruni" width="80" height="80"/>
