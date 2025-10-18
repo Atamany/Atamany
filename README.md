@@ -38,6 +38,7 @@ I am disciplined, organized, and versatile in my working style. Despite a busy s
 
 ## 💼 Experience  
 <p align="left">
+  <img src="https://i.hizliresim.com/eosxoge.jpg" alt="AkademiQ AI Data Force" width="80" height="80"/>
   <img src="https://i.hizliresim.com/l4x4dej.jpg" alt="PawLounge" width="80" height="80"/>
   <img src="https://i.hizliresim.com/8ybxn7t.jpg" alt="Synergy Maze AI" width="80" height="80"/>
   <img src="https://i.hizliresim.com/1lnk7tq.jpg" alt="Thorius Eğitim ve Danışmanlık" width="80" height="80"/>
