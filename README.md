@@ -1,221 +1,108 @@
-# Yiğit Ataman  
-## Software Developer (.NET) | Computer Engineer | Instructor  
-🌐 [atamany.com.tr](http://atamany.com.tr) | 📧 yigitataman1@gmail.com | 📱 +90 538 012 620  
+# Hi there, I'm Yiğit Ataman! 👋
+
+> **Chief Technology Officer @ PawLounge | .NET Developer & Software Instructor @ Synergy Maze AI | Software Projects & Education | Istanbul**
+
+[![Website](https://img.shields.io/badge/Website-atamany.com.tr-blue?style=flat&logo=google-chrome)](https://atamany.com.tr)
+[![Email](https://img.shields.io/badge/Email-yigitataman1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yigitataman1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yiğit%20Ataman-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yigitataman/)
 
 ---
 
-Hello everyone, I'm **Yiğit Ataman**.  
+### 👨‍💻 **About Me**
 
-I am actively working in the fields of **software development** and **education**.  
-Specialized in **.NET technologies** (ASP.NET Core, MVC, Entity Framework, etc.), I both develop enterprise projects and take on instructor and consultant roles in various institutions.  
+Hello, I am Yiğit Ataman.
 
-My career is not only about producing technical knowledge but also about combining it with different disciplines, contributing to team management, content design, and the development of organizational structures. I have worked simultaneously in multiple institutions, reflecting my competencies in both education and professional software projects.  
+I am a Computer Engineering student who sees technology not just as a profession, but as a **tool for social benefit and innovation**. By blending my academic education with practical field experiences and civil society works, I aim to create a **"T-shaped" competency profile**.
 
-In the systems I develop, **sustainability, clean code, and user experience** are my top priorities. I also follow industry dynamics and actively participate in summits and events, keeping my technical knowledge up to date and sharing it with my community.  
+Throughout my educational life, I have adopted an **interdisciplinary approach**. While continuing my Computer Engineering education at **Nişantaşı University**, I solidified my technical foundations by completing the Computer Programming department at **Istanbul University**. The engineering foundation I previously received at **Biruni University** and the competency programs I participated in at platforms like **Young Executive Academy (YEA)** and **AkademiQ AI Business School** enable me to keep my vision constantly up-to-date.
 
-I am disciplined, organized, and versatile in my working style. Despite a busy schedule, I prioritize processes effectively and strive to progress with high efficiency in both team and individual work.  
+I found the chance to experience the dynamics of the business world while still in my student years. I am maintaining my professional journey on **three main axes**:
 
-**My goal is not only to be a software developer but also to be someone who adds meaning and value to the organization I am part of.**  
+💻 **Software Development & R&D:** I am specializing in the **.NET ecosystem** and **Artificial Intelligence integrations**.
+* As a **Software Developer** within **Synergy Maze AI**, I write code in active projects and contribute to R&D processes.
+* In the past, I **strengthened my technical muscles** with web and software projects I took part in at **Esriva** and **AkademiQ**.
 
----
+🚀 **Entrepreneurship & Strategy:** I take responsibility in the **technical planning** and **strategy development** stages of the process of turning an idea into a product.
+* With the **CTO** role at the **PawLounge** initiative, I manage the structuring of a facility's entire **technological infrastructure from scratch**.
+* As a **Coordinator** at **Motif&Co** production company, I provide **technical consultancy** in projects combining cinema and technology, and inspect the realism of technological fiction in scripts.
 
-## 🎓 Education  
-<p align="left">
-  <img src="https://i.hizliresim.com/ic1swkv.jpeg" alt="Nişantaşı Üniversitesi" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/oymv97y.jpeg" alt="Biruni Üniversitesi" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/6tbpxot.jpg" alt="İstanbul Üniversitesi" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/fc1tyan.jpeg" alt="AkademiQ AI Business School" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/mel432e.png" alt="Acunmedya Akademi" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/duj8wx9.png" alt="Young Executive Academy" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/6sgq6r8.png" alt="TechCareer.Net" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/tv1iura.jpg" alt="Google For Developers" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/ixlv4el.jpg" alt="Açık Öğretim Lisesi" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/7jtkd09.jpeg" alt="Nişantaşı Anadolu Lisesi" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/6iyxw1n.jpeg" alt="Maçka Pakmaya Hüsamettin Ziller Ortaokulu" width="80" height="80"/>
-</p>  
+🤝 **Civil Society & Volunteering:** I believe professional development is not an individual but a social effort. Therefore, I take an active role in **professional organizations** and **student communities**.
+* I closely follow sectoral developments with my memberships in the **Chamber of Computer Engineers (TMMOB)**, **Informatics Association of Turkey (TBD) Youth**, and **TÜYAFED**.
+* Throughout my university life, I undertook various roles in clubs like **IEEE, GDSC, and TIEC**.
+* **Education:** In order to share the knowledge I acquired, I guided the development of hundreds of students as an **instructor and educational coach** within **Synergy Maze AI**, **Thorius Education**, and previously **Acunmedya Academy**.
+
+As an engineer candidate at the beginning of his career but with clear goals; I am focused on **learning, producing, and adding value**. I would be pleased to meet professionals with a similar vision in the world of technology, software, and entrepreneurship.
+
+📩 yigitataman1@gmail.com
+📞 +90 538 012 6920
 
 ---
 
-## 💼 Experience  
-<p align="left">
-  <img src="https://i.hizliresim.com/eosxoge.jpg" alt="AkademiQ AI Data Force" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/l4x4dej.jpg" alt="PawLounge" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/8ybxn7t.jpg" alt="Synergy Maze AI" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/1lnk7tq.jpg" alt="Thorius Eğitim ve Danışmanlık" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/238atpn.png" alt="Esriva" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/fc1tyan.jpeg" alt="AkademiQ AI Business School" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/mel432e.png" alt="Acunmedya Akademi" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/o5txz02.jpeg" alt="MyStaff" width="80" height="80"/>
-</p>  
+## 🛠 Tech Stack
+
+| Category | Technologies |
+| --- | --- |
+| **Languages** | C#, Java, Python, PHP, JavaScript, Assembly |
+| **Backend & .NET** | .NET Core, ASP.NET MVC, Web Forms, Entity Framework, LINQ, REST API |
+| **Frontend** | HTML, CSS, Bootstrap, jQuery, AJAX |
+| **Mobile & Desktop** | Flutter (Mobile), JavaFX (Desktop) |
+| **Data Science** | NumPy, Pandas, Matplotlib |
+| **Databases** | MSSQL, MySQL, PostgreSQL, Oracle SQL, MongoDB |
+| **Tools** | Git, GitHub, Postman, Visual Studio |
 
 ---
 
-## 🤝 Voluntary  
-<p align="left">
-  <img src="https://i.hizliresim.com/btwoizh.png" alt="TMMOB Bilgisayar Mühendisleri Odası" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/93qp32n.jpg" alt="Türkiye Bilişim Derneği" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/i9cibt0.png" alt="IEEE Biruni" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/88hyvr2.png" alt="GDSC Biruni" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/jiavw9d.png" alt="TIEC Biruni" width="80" height="80"/>
-  <img src="https://i.hizliresim.com/9trly1b.jpeg" alt="Biruni Üniversitesi Girişimcilik Topluluğu" width="80" height="80"/>
-</p>  
+### 🚀 **Experience**
+
+| Company | Role | Year |
+| :--- | :--- | :--- |
+| **Motif&Co Yapım** | **Koordinatör** | Oct 2025 - Present |
+| **Synergy Maze AI** | **Software Developer** | Sep 2025 - Present |
+| **PawLounge** | **Chief Technology Officer (CTO)** | Aug 2025 - Present |
+| **Synergy Maze AI** | **Yazılım Eğitmeni** | Jun 2025 - Present |
+| **AkademiQ AI Data Force** | **Manager of Global Student Clubs** | Oct 2025 - Dec 2025 |
+| **Esriva** | **Software Developer** | Jun 2025 - Nov 2025 |
+| **AkademiQ AI Business School** | **Software Developer** | Sep 2025 - Nov 2025 |
+| **AkademiQ AI Business School** | **Eğitim Koçu Koordinatörü** | Aug 2025 - Oct 2025 |
+| **Thorius Eğitim ve Danışmanlık** | **Eğitmen** | Jun 2025 - Aug 2025 |
+| **AkademiQ AI Business School** | **Öğrenci Koordinatörü** | May 2025 - Aug 2025 |
+| **AkademiQ AI Business School** | **Eğitim Koçu** | Apr 2025 - May 2025 |
+| **Acun Medya Akademi** | **Eğitim Koçu** | Mar 2025 - Jun 2025 |
+| **Acun Medya Akademi** | **Stajyer** | Mar 2025 - Mar 2025 |
+| **MyStaff** | **Stajyer** | Nov 2024 - Apr 2025 |
 
 ---
 
-## ⚙️ Tech Stack  
+### 🎓 **Education & Certifications**
 
-### 🔹 Programming & Frameworks  
-<p align="left">
-  <img src="https://i.hizliresim.com/sobbd8d.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/n6mt8fj.jpeg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/cosahaf.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/3m8u1j3.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/6k5vimw.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/qh16g20.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/bqixekb.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/b774bgz.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/fkzrn4l.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/aksaiik.png" width="40" height="40"/>
-</p>
-
-### 🔹 API Technogy & Security
-<p align="left">
-  <img src="https://i.hizliresim.com/jawhdpo.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/r5xd3l0.jpeg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/gjypbsf.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/sl5061d.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/38ezbdx.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/nndinok.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/earjtvm.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/r3jnlva.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/tkn9e51.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/f7k2b15.png" width="40" height="40"/>
-</p>
-
-### 🔹 Database & ORM
-<p align="left">
-  <img src="https://i.hizliresim.com/rmwco5a.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/e3rlyko.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/sdt4w5r.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/dcjl4s1.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/ai1q79p.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/itcpqdl.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/jpdz5hx.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/5w5mnpa.jpeg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/6muy38m.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/bdmxusm.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/pxeynub.png" width="40" height="40"/>
-</p>
-
-### 🔹 Web Technologies  
-<p align="left">
-  <img src="https://i.hizliresim.com/4wtctfz.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/foynwcq.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/j3bo8ou.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/sn9zcrx.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/5lywvea.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/9ufoel0.png" width="40" height="40"/>
-</p>
-
-### 🔹 Data Science and Analytics 
-<p align="left">
-  <img src="https://i.hizliresim.com/n9mo0um.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/7jyty9o.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/d053h22.png" width="40" height="40"/>
-</p>
-
-### 🔹 Database Systems  
-<p align="left">
-  <img src="https://i.hizliresim.com/brewshk.jpeg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/9gfg76y.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/r1e69lg.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/bfq72cq.jpeg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/5b2i2zl.jpg" width="40" height="40"/>
-</p>
-
-### 🔹 Software Architecture and Principles
-<p align="left">
-  <img src="https://i.hizliresim.com/c1c9ygs.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/lzanjzj.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/d02qa2o.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/3yypexd.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/bu30ceo.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/8l0l8d0.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/1metnwy.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/5wb1szr.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/tbs8bjr.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/c4n056z.png" width="40" height="40"/>
-</p>
-
-### 🔹 Tools
-<p align="left">
-  <img src="https://i.hizliresim.com/cnfu1ml.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/gi2ksiq.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/k3wd95e.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/9d14fl7.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/rldzkp2.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/17wffud.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/oc6xniu.jpg" width="40" height="40"/>
-</p>
-
-### 🔹 No-Code/Low-Code Tools 
-<p align="left">
-  <img src="https://i.hizliresim.com/2s02lj1.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/d8ft1v6.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/g3q4ubn.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/n962ogw.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/gnj9fq2.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/40fw5z6.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/dazbvgw.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/43jfixq.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/jo85ahk.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/qopby4y.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/i8fcqzm.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/2ticp6t.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/iac4okn.jpg" width="40" height="40"/>
-</p>
-
-### 🔹 Artificial Intelligence Tools
-<p align="left">
-  <img src="https://i.hizliresim.com/golsze3.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/mmmeaqc.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/t7gwcmy.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/otbiayo.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/ez3qjx4.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/p8b9v5i.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/13gewcr.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/6s86q8f.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/iy7uai5.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/tjqv4uv.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/nio8c1e.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/grh4gu9.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/gh1preo.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/b4igoff.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/kliwop6.jpg" width="40" height="40"/>
-</p>
-
-### 🔹 Operating Systems
-<p align="left">
-  <img src="https://i.hizliresim.com/4hnlch0.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/gccp430.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/oodh0k5.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/1wkz3pz.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/r94nhvz.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/h9pwd8n.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/skpz6dc.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/78stcut.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/nun3mqo.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/pbiozls.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/9mx480h.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/j4oc4pa.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/g49pvh8.png" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/o701pp2.jpg" width="40" height="40"/>
-  <img src="https://i.hizliresim.com/91axfcf.jpg" width="40" height="40"/>
-</p>
+| School | Department | Type | Year |
+| :--- | :--- | :--- | :--- |
+| **Nişantaşı University** | Computer Engineering | Bachelor's Degree | 2025-2027 |
+| **Biruni University** | Computer Engineering | Bachelor's Degree | 2023-2025 |
+| **İstanbul University** | Computer Programming | Associate Degree | 2023-2025 |
+| **AkademiQ AI Business School** | Intro to Programming with C# | Bootcamp Program | 2024-2025 |
+| **Young Executive Academy** | Young Executive Training | Certificate Program | 2023-2023 |
 
 ---
 
-## 🌍 Social Media  
+### 🤝 **Volunteering & Communities**
+
+| Organisation | Role | Year |
+| :--- | :--- | :--- |
+| **TBD Genç İstanbul Çalışma Grubu** | Üye | Sep 2025 - Present |
+| **TÜYAFED - Türkiye Yazılımcılar Federasyonu** | Üye | Jul 2025 - Present |
+| **TMMOB Bilgisayar Mühendisleri Odası** | Üye | Jul 2025 - Present |
+| **TIEC Biruni** | Proje Takım Lideri | May 2025 - Jun 2025 |
+| **IEEE Biruni** | Computer Society | May 2024 - Jun 2025 |
+| **TIEC Biruni** | Content Creator | Feb 2025 - May 2025 |
+| **GDSC Biruni** | Event Organizer | Dec 2023 - Oct 2024 |
+| **TIEC Biruni** | Event Organizer | Jan 2024 - Sep 2024 |
+| **Biruni Üniversitesi Girişimcilik Topluluğu** | Social Media Manager | Feb 2024 - Mar 2024 |
+| **Biruni Üniversitesi Girişimcilik Topluluğu** | Event Organizer | Jan 2024 - Feb 2024 |
+
+---
+
+### 🌐 **Socials**
 <p align="left">
   <a href="https://www.atamany.com.tr/"><img src="https://i.hizliresim.com/9mp3idr.jpg" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/yigitataman/"><img src="https://i.hizliresim.com/ccm0j44.png" width="40" height="40"/></a>
