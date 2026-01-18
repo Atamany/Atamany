@@ -24,7 +24,7 @@ I found the chance to experience the dynamics of the business world while still 
 
 🚀 **Entrepreneurship & Strategy:** I take responsibility in the **technical planning** and **strategy development** stages of the process of turning an idea into a product.
 * With the **CTO** role at the **PawLounge** initiative, I manage the structuring of a facility's entire **technological infrastructure from scratch**.
-* As a **Coordinator** at **Motif&Co** production company, I provide **technical consultancy** in projects combining cinema and technology, and inspect the realism of technological fiction in scripts.
+* As a **Technology Producer** at **TOGMEN Productions** production company, I provide **technical consultancy** in projects combining cinema and technology, and inspect the realism of technological fiction in scripts.
 
 🤝 **Civil Society & Volunteering:** I believe professional development is not an individual but a social effort. Therefore, I take an active role in **professional organizations** and **student communities**.
 * I closely follow sectoral developments with my memberships in the **Chamber of Computer Engineers (TMMOB)**, **Informatics Association of Turkey (TBD) Youth**, and **TÜYAFED**.
