@@ -56,7 +56,7 @@ As an engineer candidate at the beginning of his career but with clear goals; I 
 
 | Company | Role | Year |
 | :--- | :--- | :--- |
-| **Motif&Co Yapım** | **Koordinatör** | Oct 2025 - Present |
+| **TOGMEN Productions** | **Teknoloji Yapımcısı** | Oct 2025 - Present |
 | **Synergy Maze AI** | **Software Developer** | Sep 2025 - Present |
 | **PawLounge** | **Chief Technology Officer (CTO)** | Aug 2025 - Present |
 | **Synergy Maze AI** | **Yazılım Eğitmeni** | Jun 2025 - Present |
