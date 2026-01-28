@@ -1,6 +1,6 @@
 # Hi there, I'm Yiğit Ataman! 👋
 
-> **Chief Technology Officer @ PawLounge | .NET Developer & Software Instructor @ Synergy Maze AI | Software Projects & Education | Istanbul**
+> **Genel Başkan Yardımcısı @ Genç TÜYAFED | Chief Technology Officer @ PawLounge | .NET Developer & Yazılım Eğitmeni @ Synergy Maze AI | Yazılım Projeleri & Eğitim | İstanbul**
 
 [![Website](https://img.shields.io/badge/Website-atamany.com.tr-blue?style=flat&logo=google-chrome)](https://atamany.com.tr)
 [![Email](https://img.shields.io/badge/Email-yigitataman1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yigitataman1@gmail.com)
