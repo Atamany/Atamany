@@ -1,6 +1,6 @@
 # Hi there, I'm Yiğit Ataman! 👋
 
-> **Genel Başkan Yardımcısı @ Genç TÜYAFED | Chief Technology Officer @ PawLounge | .NET Developer & Yazılım Eğitmeni @ Synergy Maze AI | Yazılım Projeleri & Eğitim | İstanbul**
+> **Genel Başkan Yardımcısı @ Genç TÜYAFED | Chief Technology Officer @ PawLounge | Yazılım Eğitmeni & Yazılım Takım Lideri @ Synergy Maze AI | Yazılım Projeleri & Eğitim | İstanbul**
 
 [![Website](https://img.shields.io/badge/Website-atamany.com.tr-blue?style=flat&logo=google-chrome)](https://atamany.com.tr)
 [![Email](https://img.shields.io/badge/Email-yigitataman1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yigitataman1@gmail.com)
@@ -56,11 +56,12 @@ As an engineer candidate at the beginning of his career but with clear goals; I 
 
 | Company | Role | Year |
 | :--- | :--- | :--- |
+| **Synergy Maze AI** | **Software Development Team Lead** | Jan 2026 - Present |
 | **Genç TÜYAFED** | **Genel Başkan Yardımcısı** | Jan 2026 - Present |
 | **TOGMEN Productions** | **Teknoloji Yapımcısı** | Oct 2025 - Present |
-| **Synergy Maze AI** | **Software Developer** | Sep 2025 - Present |
 | **PawLounge** | **Chief Technology Officer (CTO)** | Aug 2025 - Present |
 | **Synergy Maze AI** | **Yazılım Eğitmeni** | Jun 2025 - Present |
+| **Synergy Maze AI** | **Software Developer** | Sep 2025 - Jan 2026 |
 | **AkademiQ AI Data Force** | **Manager of Global Student Clubs** | Oct 2025 - Dec 2025 |
 | **Esriva** | **Software Developer** | Jun 2025 - Nov 2025 |
 | **AkademiQ AI Business School** | **Software Developer** | Sep 2025 - Nov 2025 |
